@@ -1,0 +1,11 @@
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\bin\Debug\netcoreapp2.1\PrimeDirective.deps.json
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\bin\Debug\netcoreapp2.1\PrimeDirective.runtimeconfig.json
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\bin\Debug\netcoreapp2.1\PrimeDirective.runtimeconfig.dev.json
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\bin\Debug\netcoreapp2.1\PrimeDirective.dll
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\bin\Debug\netcoreapp2.1\PrimeDirective.pdb
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.csprojAssemblyReference.cache
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.csproj.CoreCompileInputs.cache
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.AssemblyInfoInputs.cache
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.AssemblyInfo.cs
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.dll
+C:\Users\jakerobertgarner\source\repos\PrimeDirective\PrimeDirective\obj\Debug\netcoreapp2.1\PrimeDirective.pdb
